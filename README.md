@@ -8,9 +8,9 @@ It is purposed to show a basic example of an anaylsis of Titanic Machine Learnin
  - Exploring data through Visualizations with Matplotlib
 ### Data anaylsis 
  - Apply supervised Machine learning models:
-   Logistic Regression
-   K-nearest neighbour Algorithm
-   Multi-layer Perceptron
+   1. Logistic Regression
+   2. K-nearest neighbour Algorithm
+   3. Multi-layer Perceptron
 ### Valuation of the anaylsis
  - K-folds cross validation to valuate results locally
  - Upload the predict result to the Kaggle
